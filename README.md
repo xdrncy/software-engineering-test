@@ -6,7 +6,7 @@
 * Clone this repo
 * Make a FORK, and then create a PR for the FORK when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
-* You can solve the problem using either python, nodejs, ruby, golang, java or typescript
+* You can solve the problem using either python, nodejs, ruby, golang or typescript
 * Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR.
 
 ## Hints
