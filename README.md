@@ -6,7 +6,7 @@
 * Clone this repo
 * Make a FORK, and then create a PR for the FORK when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
-* You can solve the problem using either python, nodejs, ruby, golang or typescript
+* You can solve the problem using either python, javascript, or ruby
 * Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR.
 
 ## Hints
@@ -28,7 +28,7 @@
 * The problem stems from needing to award badges for consecutive logins in order to reward good behavior as demonstrated by a Supahands labeler
 
 ## Expected Solution
-* Present the solution as a python/ruby/typescript/nodejs script file.
+* Present the solution as a python/ruby/nodejs script file in this directory
 
 ## Outputs
 Our test script expects a stdout of the following format
