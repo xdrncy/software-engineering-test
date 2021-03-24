@@ -29,6 +29,7 @@
 ## Expected Solution
 * Call the seed.py from the your script in order to generate a data pipeline for the processing code
 * Present the solution as a separate python/ruby/nodejs script file in this directory
+* Create a unit test for your script file to test the various scenarios presented in your script
 * DO NOT edit or amend the seed.py file
 
 ## Outputs
