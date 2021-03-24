@@ -11,7 +11,6 @@
 
 ## Hints
 * If you do not know the fork and generate PR workflow, please read this [guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
-* Call the seed.py from the your script in order to generate a data pipeline for the processing code
 * We will not be processing submissions that do not match the output format as stipulated in Outputs
 
 
@@ -28,7 +27,9 @@
 * The problem stems from needing to award badges for consecutive logins in order to reward good behavior as demonstrated by a Supahands labeler
 
 ## Expected Solution
-* Present the solution as a python/ruby/nodejs script file in this directory
+* Call the seed.py from the your script in order to generate a data pipeline for the processing code
+* Present the solution as a separate python/ruby/nodejs script file in this directory
+* DO NOT edit or amend the seed.py file
 
 ## Outputs
 Our test script expects a stdout of the following format
