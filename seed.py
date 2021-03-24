@@ -1,6 +1,7 @@
 from datetime import datetime
 from datetime import timedelta
 from random import randint
+from random import sample
 
 start = datetime.now()
 end = start+timedelta(days=60)
@@ -23,4 +24,6 @@ while start < end:
     step = timedelta(hours=value)
     start += step
 
-print(result)
+res = sample(result,len(result))
+
+print(res)
