@@ -13,7 +13,7 @@
 * For guidance on the PR workflow, please read the Hints section
 
 ## Hints
-* HOW TO PR workflow, please read this [guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to PR properly
+* HOW TO PR workflow, please read this [guide](https://gist.github.com/kaizenx/542bc3bebbb75029f0c96d5871d66af5) to PR properly
 * We will not be processing submissions that do not match the output format as stipulated in Outputs
 
 
