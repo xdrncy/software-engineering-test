@@ -1,11 +1,11 @@
 # Supahands Coding Assessment
 * This is a coding asssessment for prospective supahands engineers
-* Please create a new file for the solution, <span style="background-color:red">**DO NOT**</span> modify the seed.py file
-* The seed file <span style="background-color:red">**MUST NOT**</span> be modified, it is expected to generate a list of random timestamps to be used in the test
+* Please create a new file for the solution, **DO NOT** modify the seed.py file
+* The seed file **MUST NOT** be modified, it is expected to generate a list of random timestamps to be used in the test
 
 ## Submission Instructions
 * Clone this repo
-* Make a <span style="background-color:red">**FORK**,</span> and then create a PR for the <span style="background-color:red">**FORK**</span> from the <span style="background-color:red">**FORK**</span> when you are ready for answer submission!
+* Make a **FORK**, and then create a PR for the **FORK** from the **FORK** when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
 * You can solve the problem using either python, javascript, or ruby
 * Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR
@@ -13,8 +13,8 @@
 * For guidance on the PR workflow, please read the Hints section
 
 ## Hints
-* <span style="background-color:green">**HOW TO PR**</span> workflow, please read this [guide](https://gist.github.com/kaizenx/542bc3bebbb75029f0c96d5871d66af5) to PR properly
-* We <span style="background-color:red">**WILL NOT**</span> be processing submissions that do not match the output format as stipulated in Outputs
+* **HOW TO PR** workflow, please read this [guide](https://gist.github.com/kaizenx/542bc3bebbb75029f0c96d5871d66af5) to PR properly
+* We **WILL NOT** be processing submissions that do not match the output format as stipulated in Outputs
 
 
 ## Problem Statement
