@@ -1,5 +1,5 @@
-# Supahands Coding Test Alternate
-* This is a coding test for prospective supahands engineers
+# Supahands Coding Assessment
+* This is a coding asssessment for prospective supahands engineers
 * Please create a new file for the solution, DO NOT modify the seed.py file
 * The seed file SHOULD NOT be modified, it is expected to generate a list of random timestamps to be used in the test
 
