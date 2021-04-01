@@ -1,16 +1,17 @@
 # Supahands Coding Test Alternate
-* This is a coding test for prospective supahands engineers. 
-* The seed file should not be modified, it is expected to generate a list of random timestamps to be used in the test
+* This is a coding test for prospective supahands engineers
+* Please create a new file for the solution, DO NOT modify the seed.py file
+* The seed file SHOULD NOT be modified, it is expected to generate a list of random timestamps to be used in the test
 
 ## Submission Instructions
 * Clone this repo
 * Make a FORK, and then create a PR for the FORK when you are ready for answer submission!
 * Place your solutions files in the same directory as the seed.py file
 * You can solve the problem using either python, javascript, or ruby
-* Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR.
+* Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR
 
 ## Hints
-* If you do not know the fork and generate PR workflow, please read this [guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+* HOW TO PR workflow, please read this [guide](https://gist.github.com/Chaser324/ce0505fbed06b947d962) to PR properly
 * We will not be processing submissions that do not match the output format as stipulated in Outputs
 
 
