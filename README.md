@@ -9,7 +9,7 @@
 * Place your solutions files in the same directory as the seed.py file
 * You can solve the problem using either python, javascript, or ruby
 * Notify [careers@supahands.com](mailto:careers@supahands.com) upon PR request with link to PR
-* Solutions that did not follow the submission instructions will not be considered
+* Solutions that did not follow the submission instructions WILL NOT be considered
 * For guidance on the PR workflow, please read the Hints section
 
 ## Hints
@@ -35,9 +35,13 @@
 
 ## Expected Solution
 * Call the seed.py from the your script in order to generate a data pipeline for the processing code
-* Present the solution as a separate python/ruby/nodejs script file in this directory
-* Create a unit test for your script file to test the various scenarios presented in your script
+* Create a separate unit test for your script file to test the various scenarios presented in your script
 * DO NOT edit or amend the seed.py file
+* Include a separate readme in the form of a README.txt if additional instructions are required to get your solution running
+* Your solution should follow best practices such as DRY, KISS, YAGNI, SOLID etc.
+* **IMPORTANT** Your solution should consists of a solution file, a unit test file and a README.txt if necessary
+* Your solution will be rated for cyclomatic complexity, code maintainability, adherence to best practices, elegance of solution, defensibility and performance
+* Solutions that do not follow the submission instructions WILL NOT be considered
 
 ## Outputs
 Our test script expects a stdout of the following format
