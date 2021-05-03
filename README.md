@@ -43,6 +43,16 @@
 * Your solution will be rated for cyclomatic complexity, code maintainability, adherence to best practices, elegance of solution, defensibility and performance
 * Solutions that do not follow the submission instructions WILL NOT be considered
 
+## Assessment Criteria
+* Submitted code will be assessed based on the following criteria
+  * Cyclomatic complexity
+  * Maintainability index
+  * Best practices
+  * Elegance of solution
+  * Defensibility of code
+  * Optimization
+
+
 ## Outputs
 Our test script expects a stdout of the following format
 | START      | END        | LENGTH |
