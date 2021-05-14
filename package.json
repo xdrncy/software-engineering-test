@@ -1,0 +1,24 @@
+{
+  "name": "supahands",
+  "version": "1.0.0",
+  "description": "Supahands Test",
+  "main": "alex.js",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "python-shell": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdrncy/software-engineering-test.git"
+  },
+  "author": "alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdrncy/software-engineering-test/issues"
+  },
+  "homepage": "https://github.com/xdrncy/software-engineering-test#readme"
+}
